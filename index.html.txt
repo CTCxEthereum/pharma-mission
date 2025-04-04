@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mission Pharma</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <img src="MISSION PHARMA LOGO.png" alt="Mission Pharma Company Logo" onerror="this.style.display='none'" />
+    <h1>Mission Pharma</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="products.html">Products</a>
+    <a href="brands.html">Brands</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <div class="container">
+    <div class="card">
+      <h2>About Us</h2>
+      <p>Mission Pharma is dedicated to providing high-quality pharmaceutical products to enhance health and well-being.</p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Mission Pharma. All Rights Reserved.
+  </footer>
+</body>
+</html>
